@@ -1,4 +1,4 @@
-# Face-Eyes-Recognition
+# Face-Eyes-Detection
 This project aims to build a real-time face and eyes detection system using OpenCV. The Haar Cascade classifier is used to detect faces and eyes, and the system can be used to process a live video stream or a recorded video file. The detected faces and eyes are highlighted using rectangles. 
 
 # Getting Started
@@ -22,7 +22,7 @@ The program exits when the user presses the 'q' key.
 The face and eyes detection system successfully detects and highlights human faces and eyes in real-time from a live video stream or recorded video file.
 
 # Conclusion
-In this project, we successfully built a real-time face and eyes detection system using OpenCV. The system can detect and highlight human faces and eyes from a live video stream or recorded video file. The project demonstrates the effectiveness of the Haar Cascade classifier for face and eyes detection and the versatility of OpenCV in computer vision applications.
+In this project, we successfully built a real-time face and eyes detection system using OpenCV. The system can detect and highlight human faces and eyes from a live video stream or recorded video file. The project demonstrates the effectiveness of the Haarcascade classifier for face and eyes detection and the versatility of OpenCV in computer vision applications.
 
 # Real-time detection example
 <img width="253" alt="face_detect" src="https://user-images.githubusercontent.com/84733746/232330102-699e6472-1b5e-424c-977a-5df580ee02e2.png">
